@@ -1,8 +1,7 @@
 # INTRODUCTION, I'm Shyam S
 ## B.E. Computer Science & Engineering Student| Emerging Software
  & AI Developer
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-shyam-58b696436)
-
+ [![LinkedIn] https://www.linkedin.com/in/s-shyam-58b696436
 ---
 ## About Me
 * Pursuing **B.E. in Computer Science and Engineering** at **St. Joseph's College of Engineering*
@@ -24,12 +23,7 @@
 | **Tools** | Git, GitHub, VS Code |
 | **Currently Exploring** | Artificial Intelligence, Machine Learning, Advanced DSA, Software Development |
 
----
-### Featured Repositories
-####shyambg110-bot (Shyam S) https://share.google/xZXsMiw8oEfJbvB1V
-•⁠  ⁠Includes my Statistics-I learning activities and academic work.
-•⁠  ⁠Documents my understanding of statistical concepts and learning reflections.
-•⁠  ⁠⁠ Statistics ⁠ • ⁠ Data Science ⁠ • ⁠ Academic Portfolio ⁠ • ⁠ Learning 
+
 
 ---
 #### Offline-First Disaster Communication Network
