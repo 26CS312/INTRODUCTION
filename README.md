@@ -17,11 +17,11 @@
 ### Tech Stack & Tooling
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | C, Python |
+| **Languages** | C,C++,Python |
 | **Computer Science** | Data Structures & Algorithms, Problem Solving, Algorithm Design, Programming Fundamentals |
 | **Data Science** | Statistics, Data Analysis, Python for Data Science |
-| **Tools** | Git, GitHub, VS Code |
-| **Currently Exploring** | Artificial Intelligence, Machine Learning, Advanced DSA, Software Development |
+| **Tools** | Git, GitHub|
+| **Currently Exploring** | Artificial Intelligence, Machine Learning, Deep learning with (ANN) ,Advanced DSA, Software Development |
 
 
 
@@ -41,4 +41,6 @@
 * Building my Data Science foundation
 * Exploring Artificial Intelligence & Machine Learning
 * Developing practical projects and participating in hackathons
+* Deepening mathematical foundations (Calculus & Linear Algebra) for Data Science and Machine Learning
+* Building innovative hackathon prototypes and contributing to open-source software
 ---
